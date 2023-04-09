@@ -23,6 +23,15 @@ This repository contains implementations of algorithms in C++.
    1. Naive String Matching
    2. Rabin-Karp String Matching
    3. Knuth Morris Pratt String Matching (KMP)
+6. **Graph Algorithms**
+   1. Bellman Ford Algorithm
+   2. Edmond Karp Algorithm
+7. **Randomized Algorithms**
+   1. Randomized Quick Sort
+   2. Randomized Hiring Problem
+8. **Geometric Algorithms**
+   1. Jarvis March
+   2. Check if 2 lines segments intersect
 
 ### Usage
 
